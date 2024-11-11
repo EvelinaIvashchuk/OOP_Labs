@@ -1,0 +1,51 @@
+.csproj:
+-- 05.csproj - 0 КБ
+
+.cs:
+-- Program.cs - 1 КБ
+-- .NETCoreApp,Version=v8.0.AssemblyAttributes.cs - 0 КБ
+-- 05.AssemblyInfo.cs - 0 КБ
+-- 05.GlobalUsings.g.cs - 0 КБ
+
+.json:
+-- 05.csproj.nuget.dgspec.json - 2 КБ
+-- project.assets.json - 1 КБ
+-- 05.deps.json - 0 КБ
+-- 05.runtimeconfig.json - 0 КБ
+
+.props:
+-- 05.csproj.nuget.g.props - 1 КБ
+
+.targets:
+-- 05.csproj.nuget.g.targets - 0 КБ
+
+.cache:
+-- project.nuget.cache - 0 КБ
+-- 05.AssemblyInfoInputs.cache - 0 КБ
+-- 05.assets.cache - 0 КБ
+-- 05.csproj.CoreCompileInputs.cache - 0 КБ
+-- 05.genruntimeconfig.cache - 0 КБ
+
+.dll:
+-- 05.dll - 6 КБ
+-- 05.dll - 6 КБ
+-- 05.dll - 5 КБ
+-- 05.dll - 5 КБ
+
+.exe:
+-- 05.exe - 139 КБ
+-- apphost.exe - 139 КБ
+
+.pdb:
+-- 05.pdb - 10 КБ
+-- 05.pdb - 10 КБ
+
+.BuildWithSkipAnalyzers:
+-- 05.csproj.BuildWithSkipAnalyzers - 0 КБ
+
+.txt:
+-- 05.csproj.FileListAbsolute.txt - 0 КБ
+
+.editorconfig:
+-- 05.GeneratedMSBuildEditorConfig.editorconfig - 0 КБ
+
